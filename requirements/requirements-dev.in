@@ -1,0 +1,5 @@
+-r requirements.in
+
+pre-commit
+pyre-check
+ruff
